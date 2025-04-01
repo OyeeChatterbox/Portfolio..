@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Animated Portfolio </title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+  <nav>
+
+    <div class="wrap">
+
+    </div>
+
+     <div class="tabs">
+<div class="htext">
+    <a href="">Portfolio..</a>
+</div>
+        <ul>
+            <a href=""><li>About Me </li></a>
+            <a href=""><li> Portfolio</li></a>
+            <button class="btn-contect"><a href=""><SPAN style="color: #101820;">Contact</SPAN></a></button>
+        </ul>
+    </div>
+</nav>
+<div class="center">
+    <h1 id="cen">
+        <span id="hythere" style="font-size:smaller;">Hello !</span><br>
+        My Self <span style=" font-size: larger; color: #101820;   
+        background-color:white;
+        box-shadow: #FDD20EFF 5px 5px;text-shadow:#FDD20EFF 4px 3px ;"> <br>Rajnish Thakur.</span>
+    </h1>
+    <img src="rj.jpg" alt="Rajnish's img" height="50px" width="50px" >
+</div>
+</body>
+</html>
